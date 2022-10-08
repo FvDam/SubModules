@@ -1,4 +1,4 @@
 import sys
-import Submodules.LibraryTesting
+import Library.LibraryTesting
 
-print("Doesn't work because library doesn't exist")
+print("Works because library exist")
