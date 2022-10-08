@@ -1,3 +1,4 @@
-# Place holder for library
+import sys
+import Submodules.LibraryTesting
 
-print("No library... yet")
+print("Doesn't work because library doesn't exist")
